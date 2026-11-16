@@ -1,0 +1,5 @@
+# E1-loc wrapper and prospective inputs sealed 2026-11-06T18:35:56Z, before any EIA value dated 2026-10-17 or later was read
+003e7b1415cbc65b14fba9d122e9496da8cd9ea5bc0c9ada8685de703b798271  e1loc_prospective.py
+c115a04df3e1c4e07d28b9c696d0fcc89bec1e5e1afb7dde29038b7b654ead71  abl_review4.py
+7b1eab80d02702e56e393514731e56bf81ce8fc90fa38b5f695ce0a46698fb94  asof_afd_prospective_early.json
+561adff1ffd603964c02b7535bce43a0e076785020ff28bad7d51cdc91f4bb1f  scores_v2_Qwen2.5-7B-Instruct.jsonl

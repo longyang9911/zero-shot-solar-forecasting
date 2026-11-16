@@ -1,0 +1,1 @@
+Erratum (2026-10-20): the header of FULL_STUDY_AMENDMENT_3.md says 'written 2026-10-21 UTC'; the actual seal time is 2026-10-20T23:45:59Z (FULL_STUDY_AMENDMENT_3.sha256 and the e-mail sent to the user at 16:45 PDT). The sealed file is left unchanged.

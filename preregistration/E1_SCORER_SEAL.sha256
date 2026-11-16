@@ -1,0 +1,6 @@
+# E1 scorer sealed 2026-11-06T18:29:18Z, before any EIA value dated 2026-10-17 or later was read (labels only on/after 2026-11-07)
+5179a23e092f9f7183f8e35ff9f71e1d1df5cc72f7a537e60b1a295bf2dcd2b3  score_realtime_e1.py
+111b43c8463e1f52d446beb99e170220b097862f4544b376a47593a93e927a77  prospective_early.py
+ed2171674b7e487a1df76ddd91cadc05007a74848932dfe7da103965bd4d7d92  study2.py
+12fa77ff025c40b835549baa2c18abc57002e9c38cf2013a18ad452d3774649e  study.py
+bc20c064ca710842d8d33bb6251197ed2da2a0b1d7a57b041dec3720324fd64b  config.py

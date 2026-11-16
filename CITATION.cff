@@ -1,0 +1,44 @@
+cff-version: 1.2.0
+message: "If you use these materials, please cite the paper below."
+title: "A Zero-Shot Foundation Model Ensemble for Regional Probabilistic Solar Power Forecasting"
+repository-code: "https://github.com/longyang9911/zero-shot-solar-forecasting"
+license: CC-BY-4.0
+keywords:
+  - solar power forecasting
+  - probabilistic forecasting
+  - time series foundation models
+  - large language models
+  - numerical weather prediction
+  - preregistration
+authors:
+  - family-names: Long
+    given-names: Yang
+  - family-names: Khan
+    given-names: Shahid Nawaz
+  - family-names: Liu
+    given-names: Bo
+  - family-names: Yang
+    given-names: Qihui
+  - family-names: Wu
+    given-names: Hongyu
+  - family-names: Liu
+    given-names: Yichen
+preferred-citation:
+  type: conference-paper
+  title: "A Zero-Shot Foundation Model Ensemble for Regional Probabilistic Solar Power Forecasting"
+  authors:
+    - family-names: Long
+      given-names: Yang
+    - family-names: Khan
+      given-names: Shahid Nawaz
+    - family-names: Liu
+      given-names: Bo
+    - family-names: Yang
+      given-names: Qihui
+    - family-names: Wu
+      given-names: Hongyu
+    - family-names: Liu
+      given-names: Yichen
+  collection-title: "2027 IEEE Power & Energy Society General Meeting (PESGM)"
+  year: 2027
+  notes: "Submitted"
